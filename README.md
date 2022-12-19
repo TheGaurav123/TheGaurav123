@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegaurav123&label=Profile%20views&color=0e75b6&style=flat" alt="thegaurav123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamakashgaurav" target="blank"><img src="https://img.shields.io/twitter/follow/iamakashgaurav?logo=twitter&style=for-the-badge" alt="iamakashgaurav" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamakashgaurav" target="blank"><img src="https://img.shields.io/twitter/follow/iamakashgaurav?logo=twitter&style=for-the-badge" alt="iamakashgaurav" /></a> <img src='https://i.pinimg.com/originals/95/33/a6/9533a62ef8e235016889e96c150d44d2.gif' alt='india' width='100' /> </p>
 
 - 🔭 I’m currently working on [Developer Resource](https://developerresource.netlify.app/)
 
