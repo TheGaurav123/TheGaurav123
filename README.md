@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegaurav123&label=Profile%20views&color=0e75b6&style=flat" alt="thegaurav123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamakashgaurav" target="blank"><img src="https://img.shields.io/twitter/follow/iamakashgaurav?logo=twitter&style=for-the-badge" alt="iamakashgaurav" /></a> <img src='[https://acegif.com/wp-content/uploads/indian-flag-15.gif](https://acegif.com/wp-content/uploads/indian-flag-15.gif)' alt='India' width='100' /> </p>
+<p align="left"> <a href="https://twitter.com/iamakashgaurav" target="blank"><img src="https://img.shields.io/twitter/follow/iamakashgaurav?logo=twitter&style=for-the-badge" alt="iamakashgaurav" /></a> <img src='https://thumbs.gfycat.com/EssentialImpassionedHousefly-size_restricted.gif' alt='India' width='100' /> </p>
 
 - 🔭 I’m currently working on [Developer Resource](https://developerresource.netlify.app/)
 
