@@ -1,3 +1,4 @@
+![logo](https://github.com/TheGaurav123/TheGaurav123/blob/main/banner.jfif)
 <h1 align="center">Hi 👋, I'm Akash Gaurav</h1>
 <h3 align="center">A Calm & Passionate Fullstack Developer From INDIA </h3> 
 
